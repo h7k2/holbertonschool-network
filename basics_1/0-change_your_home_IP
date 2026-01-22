@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Configures /etc/hosts to change localhost and facebook.com resolution
 
 HOSTS_FILE="/etc/hosts"
 
